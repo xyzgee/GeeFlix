@@ -5,6 +5,7 @@ A Netflix-like Clone website which display a list of movies and it is made by us
 Although, it needs node.js runtime because, the browser doesnt load the react scripts directly and this repo could be further updated and i would try to develop this site better maybe in future or if you could do so, just fork or clone it, and pull. 
 
 Requirements:
+-------------
 You need node.js in order to view this website as it just load the scripts which has already built by node modules.
 After installing node.js, Just type those commands i say in the VSCode terminal 
 **npm install** to install the necessary dependencies to construct the scripts
