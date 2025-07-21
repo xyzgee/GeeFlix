@@ -17,5 +17,4 @@ After installing node.js, Just type those commands i say in the VSCode terminal
 Then, type **npm start** which actually compiles the webpack and creates a localhost server and hosts it.
 After this, it automatically load the webpage by the node server.
 
-BY: GEE
 
