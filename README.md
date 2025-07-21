@@ -3,7 +3,6 @@
 <p align="center">
   <img src="geeflix.JPG" alt="Actual Page" width="100%" />
 </p>
-----------
 
 Description :
 -------------
