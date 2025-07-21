@@ -1,5 +1,9 @@
 # GeeFlix
 -----------
+<p align="center">
+  <img src="geeflix.jpg" alt="Actual Page" width="100%" />
+</p>
+----------
 
 Description :
 -------------
